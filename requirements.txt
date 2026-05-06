@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────
+# Smart Contract Summary & Q&A Assistant
+# requirements.txt
+# ─────────────────────────────────────────────
+
+# UI
+gradio
+
+# LLM Framework
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+
+# Local API Deployment
+langserve
+fastapi
+uvicorn
+sse-starlette
+
+# Vector Store
+faiss-cpu
+
+# File Reading
+pymupdf
+python-docx
+
+# Utilities
+python-dotenv
